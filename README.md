@@ -1,5 +1,7 @@
 # Biblioteca POO - Semana 07
 
+# Link do PROJETO no TRELLO - https://trello.com/invite/b/6a961b120d8a2465a4c79e15/ATTI98e6b2d7a605a755b4b6531ff92aa3d4777F499F/projetobibliotecapoo 
+
 Projeto didático para a UC Programação Orientada a Objetos.
 
 ## Objetivos da atividade
